@@ -1,0 +1,8 @@
+{
+  "name": "Fikrliy - Donish bilan Algebra",
+  "description": "Brilliant.org uslubidagi interaktiv o'rganish platformasi. Donish ismli aqlli mushuk bilan algebrani o'zbek tilida o'rganing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
